@@ -1,2 +1,6 @@
-# BLOOD-BANK-MANAGEMENT-SYSTEM-USING-CLOUD-
-This project is done using php and xampp and hosted on aws cloud 
+# bloodbank
+Blood Bank Management System In Bootstrap PHP and MySQL 
+
+#admin login
+username: admin
+password: admin
